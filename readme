@@ -1,0 +1,7 @@
+Install nodemailer:
+npm install nodemailer
+
+Send mail:
+node sendmail.js
+
+Form.html should be sending mails with nodemailer
